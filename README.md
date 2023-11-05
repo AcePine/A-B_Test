@@ -1,5 +1,9 @@
 # Online Store Data Analysis Project
 
+## Overview
+
+This project is a deep dive into online store data, aimed at helping the marketing department make data-driven decisions. The primary objectives are to prioritize hypotheses, launch an A/B test, and analyze the results to boost revenue and improve the store's overall performance.
+
 ## Table of Contents
 
 - [Introduction](#introduction)
